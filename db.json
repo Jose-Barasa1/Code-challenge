@@ -1,46 +1,53 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "a2fd",
+      "name": "Jose",
+      "image": "data:image/webp;base64,UklGRuQoAABXRUJQVlA4WAoAAAAMAAAANwEANwEAVlA4IJQgAACQwgCdASo4ATgBPqVKnkumJC0qJ3Qs8aAUiWJud9e04uKmAyQht1g/tefVen9Z+UOk1R733f2vu07fPmM9DLzheaZ/wP2m97voAf0T/N9bt6CP7UenL+6vw1f27/o/t37WEaj+B263iNpbszP/KesL/q+TP7C9hTy3PXz+6ns4HDdfjtP2SBoBzYUGs23o9MbqOalcTq/C4WMve6Cz6NC/ZHWnZ4/Zrh65G6zPNyauJ3W8qzRs3YOuwvnIzYSwT4QJQHJjkA6EKq3n7vHZB5uroYPmzlwZBMErzfnq/pPzkYXPXwNY1UaIh5HSgfiEIb5rJzglPuQ3ScwhZWPXvvWQcPDvuJaER+Rqr8nKGR+OxIsUKys+KxiD98arTwQP2VDSOoqQjrl11yHwGVo9XkmOTerK7j/+j3xpVEIg49qeU9gTBOW+FeW7y7kaNx3jiJMcruSs+zSjTOfl9Otg867onx47PJpaHCm/gLOSkwNCuo+eMghYeY8XRCMehNYt8u8YTe+eu7EcdxTODjT9f93vbCnsbhFxWrENi7Cm69UsZiW8nR/KY/4x0kJn+WN6L8R1qFzxFMfFvs1ED8dl0XYfs6M+mxU0AsdZBZLaFUoY7wsCdlss+rGzNz1ANntlH3NZqoigTluvvRTsioINlcAM60jxkPkw5bqXc9u5TQczmUbVbhF3wdv58HvLOg8oGKp+ZOJtvrDfkVCURHVe8kBjjBRToDxHjuSOVf+bzQiKsSDUaMJ1SDU7XK7kPVAJzvUAI8MDoJgyxjamAyULZJe+LDb7ZfbMlRqF73tzkOZxHr6vygjmNgknl2hKxFlPVnji4h1HMVw8dYJTW5/OUZXQ5+eJ1bRB0qR6cUSiYgRQiHGsT2s4QWicGNCKeUTo/Z4At31eYOI5ucASlAbw9ptBzCPkFle/q81BoBg5dMvKEa4NTLLmosAFZ",
+      "price": 900,
+      "inStock": true
     }
   ]
 }
